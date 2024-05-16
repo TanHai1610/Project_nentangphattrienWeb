@@ -1,9 +1,11 @@
 # Website sends and approves multiple choice questions
 
 ## Introduction
-1. Language: HTML, CSS, JS.
-2. Topic: Knowledge of HTML, CSS, JS (only 1 of 3 topics).
-3. Actors and functions:
+### 1. Language: 
+HTML, CSS, JS.
+### 2. Topic: 
+Knowledge of HTML, CSS, JS (only 1 of 3 topics).
+### 3. Actors and functions:
    
 3.1. Question sent by:
 
@@ -13,7 +15,7 @@
 3.2. Question reviewer:
 + Displays a list of sent questions including: STT, Sending time, question, answer, correct answer, question sender
 + Approve and disapprove questions
-4. System components:
+### 4. System components:
   
 4.1. Home page: Displays account information and introductory information about the website
 
@@ -33,4 +35,5 @@
 + Function: approve and unapproved questions
   
 4.3. Contact page: Shows contact methods
-## Link WEBSITE: https://leafclover01.github.io/Project_nentangphattrienWeb/html/Dang_ki.html
+### 5. Link WEBSITE: 
+https://leafclover01.github.io/Project_nentangphattrienWeb/html/Dang_ki.html
